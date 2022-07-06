@@ -7,3 +7,12 @@
 0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:44 +0800] "GET /findDogById.do?id=3333&sal=59.0&breed=%E5%B0%8F%E7%BA%A2 HTTP/1.1" 200 1186 http-bio-8888-exec-8 8
 0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:48 +0800] "POST /checkId.do HTTP/1.1" 200 1 http-bio-8888-exec-9 5
 0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:49 +0800] "POST /updateDog.do HTTP/1.1" 200 5061 http-bio-8888-exec-10 13
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:32:02 +0800] "GET / HTTP/1.1" 200 57 http-bio-8888-exec-1 343
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:32:33 +0800] "GET /servletDemo02/queryDogAll.do HTTP/1.1" 404 1007 http-bio-8888-exec-3 2
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:32:42 +0800] "GET /queryDogAll.do HTTP/1.1" 200 5061 http-bio-8888-exec-4 359
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:33:31 +0800] "GET /queryDogAll.do HTTP/1.1" 200 5061 http-bio-8888-exec-5 9
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:33:32 +0800] "GET /queryDogAll.do HTTP/1.1" 200 5061 http-bio-8888-exec-7 6
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:33:32 +0800] "GET /addOrUpdateDog.jsp HTTP/1.1" 200 1172 http-bio-8888-exec-8 50
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:33:32 +0800] "GET /js/jquery-3.3.1.js HTTP/1.1" 200 282139 http-bio-8888-exec-9 6
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:33:36 +0800] "POST /checkId.do HTTP/1.1" 200 1 http-bio-8888-exec-10 6
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:16:33:40 +0800] "POST /addOneDog.do HTTP/1.1" 200 5441 http-bio-8888-exec-10 14
