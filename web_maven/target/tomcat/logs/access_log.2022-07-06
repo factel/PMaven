@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:30 +0800] "GET /queryDogAll.do HTTP/1.1" 200 4690 http-bio-8888-exec-1 675
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:31 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8888-exec-3 3
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:34 +0800] "GET /addOrUpdateDog.jsp HTTP/1.1" 200 1172 http-bio-8888-exec-4 54
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:34 +0800] "GET /js/jquery-3.3.1.js HTTP/1.1" 200 282139 http-bio-8888-exec-5 3
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:37 +0800] "POST /checkId.do HTTP/1.1" 200 1 http-bio-8888-exec-6 6
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:41 +0800] "POST /addOneDog.do HTTP/1.1" 200 5061 http-bio-8888-exec-7 15
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:44 +0800] "GET /findDogById.do?id=3333&sal=59.0&breed=%E5%B0%8F%E7%BA%A2 HTTP/1.1" 200 1186 http-bio-8888-exec-8 8
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:48 +0800] "POST /checkId.do HTTP/1.1" 200 1 http-bio-8888-exec-9 5
+0:0:0:0:0:0:0:1 - - [06/Jul/2022:11:03:49 +0800] "POST /updateDog.do HTTP/1.1" 200 5061 http-bio-8888-exec-10 13

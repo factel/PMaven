@@ -1,0 +1,4 @@
+com\javacto\po\Dog.class
+com\javacto\dao\DogDao.class
+com\javacto\dao\DogDaoImpl.class
+com\javacto\utils\BaseDao.class
